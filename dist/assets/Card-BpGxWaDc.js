@@ -1,0 +1,2 @@
+import{j as o}from"./index-CB33YwO6.js";import{c as s}from"./clsx-B-dksMZM.js";import{m as e}from"./proxy-DiwWtO83.js";const p=({children:t,className:a,animate:i=!0,delay:d=0})=>{const r=o.jsx("div",{className:s("bg-white dark:bg-dark-bg-secondary","rounded-xl shadow-sm border border-gray-200 dark:border-dark-border","p-4 md:p-6",a),children:t});return i?o.jsx(e.div,{initial:{opacity:0,y:20},animate:{opacity:1,y:0},transition:{duration:.3,delay:d},children:r}):r};export{p as C};
+//# sourceMappingURL=Card-BpGxWaDc.js.map
