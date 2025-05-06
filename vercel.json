@@ -3,6 +3,7 @@
   "buildCommand": "cd shakeeldashboard && npm install && npm run build",
   "outputDirectory": "shakeeldashboard/dist",
   "installCommand": "cd shakeeldashboard && npm install",
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
   "builds": [
     {
       "src": "shakeeldashboard/package.json",
